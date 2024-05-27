@@ -192,6 +192,8 @@
                                     <textarea class="form-control border-0" placeholder="Reason for Application" name="reasonForApplication"></textarea>
                                 </div>
                                 <div class="col-12">
+
+                                
                                     <button class="btn btn-secondary w-100 py-3" name="submit" type="submit">Apply</button>
                                 </div>
                             </div>
