@@ -269,7 +269,6 @@
                     pageLanguage: 'en',
                     layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL,
                     autoDisplay: false,
-
                     gaTrack: true,
                     gaId: 'YOUR_API_KEY'
                 },
